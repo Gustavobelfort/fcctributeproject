@@ -1,0 +1,49 @@
+.content{
+    padding: 15px;
+    text-align: center; 
+    background: #E0E0E0;
+    margin: 0 auto;
+    border-radius: 5px;
+    max-width: 500px;
+    min-width: 300px;
+    position: relative;
+    top: -80px;
+}
+
+.shadow {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+#photo{
+   
+  border-style: solid;
+  border-width: 10px;
+  border-color: #bfb9a0;
+  border: 15px solid rgba(0,0,0,0.2);
+  top: -110px;
+  position: relative;
+  border-radius: 100%;
+  align: center;
+}
+
+#fora{
+  display: block;
+  margin: 0 auto;
+  padding: 150px;
+}
+
+#main{
+    text-align: center;
+    border-radius: 10px;
+    background: #bfb9a0;
+    margin: 0 auto;
+    max-width: 700px;
+    min-width: 300px;
+    opacity: 50%;
+}
+
+body{
+  background: url("http://arteref.com/wp-content/uploads/2016/07/Sd-experimentaseu-primeiro-aviao-suspenso-por-um-cabo-inclinado-para-verificar-a-sustentac%CC%A7a%CC%83o-1906.jpg") no-repeat center fixed;
+  background-size: cover;
+  font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
+}
